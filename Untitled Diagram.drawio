@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T21:28:34.166Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2Ha6QTswOfapDxwUnLKT" version="14.6.13" type="github"><diagram id="-sPflGYBX8upJjDpWGVU" name="Page-1">3ZRNT8MwDIZ/TY9IazO67TjGNoQAIQ0JcczakEZL6pK5W8evJyXul6ZJcODCpXIev4mdN1YDtjDV2vIie4RU6CAapVXAboMomsZT963ByQM2Yx5Iq1KPwg5s1KcgOCJaqlTsB0IE0KiKIUwgz0WCA8atheNQ9g56WLXgUpyBTcL1OX1VKWZ0rWjS8TuhZNZUDuOZz2x5spMWypzq5ZALnzG8OYbuuM94CsceYsuALSwA+shUC6FrVxvH/L7VhWzbshU5/mTDB+fRPV/Lp9VmFF2/VLskfrsK6Z0OXJfkxTxBsNQynhqHXPdFHZZGewG7OQiLynn4wLdCP8NeoYLcSbaACKYnmGsl6wRC4WiGRrtF6EKq7WSiunirsPXKTZ8AI9CenIQ2TMhdGrzxmNbH7hkZoaz3gjExToMj24M7B11AJv7G0PH/MjT+O0Pdspv+71zv58KWXw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-18T13:42:05.416Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="qAnoTHX4Gg6aeqcVRrOn" version="14.6.13" type="github">
+  <diagram id="-sPflGYBX8upJjDpWGVU" name="Page-1">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qaa2JaGgNFS025Txkc6Y-13" value="visiteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qaa2JaGgNFS025Txkc6Y-14" value="client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eiOYExu8z7UEQSUHy1IL-1" value="creer un compte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eiOYExu8z7UEQSUHy1IL-7" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="620" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
